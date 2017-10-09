@@ -1,9 +1,3 @@
-/*!
- * Start Bootstrap - Stylish Portfolio (http://startbootstrap.com/)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
- */
-
 
 /* Global Styles */
 
@@ -164,7 +158,7 @@ hr.small {
     display: table;
     width: 100%;
     height: 100%;
-    background: url ("http://res.cloudinary.com/dcchyrv8j/image/upload/v1507591920/Austin_Day_exdogb.png") no-repeat center center scroll;
+    background: url ("http://res.cloudinary.com/dcchyrv8j/image/upload/v1507591920/Austin_Day_exdogb.png");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -197,7 +191,7 @@ hr.small {
     width: 100%;
     height: 400px;
     color: #fff;
-    background: url(../img/callout.jpg) no-repeat center center scroll;
+    background: url() no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
