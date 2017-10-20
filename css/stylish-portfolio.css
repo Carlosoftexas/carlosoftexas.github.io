@@ -360,11 +360,13 @@ footer {
 
   .text-vertical-center h1 {
     font-size: 4vw;
+    margin-bottom: 3px;
   }
 
   .text-vertical-center h3 {
     font-size: 4vw;
     margin-top: 0px;
+    margin-bottom: 3px;
   }
 
   .text-vertical-center a {
