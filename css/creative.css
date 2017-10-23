@@ -268,7 +268,7 @@ header.masthead {
   .btn-default:hover {
     color: #222222;
     border-color: #e0e0e0;
-    background-color: #e6e6e6; }
+    background-color: red; }
   .btn-default.active, .btn-default:active,
   .open > .btn-default.dropdown-toggle {
     color: #222222;
@@ -340,3 +340,19 @@ header.masthead {
 
 .btn-xl {
   padding: 15px 30px; }
+
+
+  /* Footer */
+
+  footer {
+    padding: 100px 0;
+  }
+
+  #to-top {
+    font-size: 1em;
+    position: fixed;
+    right: 5px;
+    bottom: 5px;
+    display: none;
+    padding: 15px 20px;
+  }
