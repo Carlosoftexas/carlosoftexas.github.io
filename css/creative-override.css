@@ -1,8 +1,8 @@
 .header-content-inner {
   position:absolute;
   top: calc(50% - 200px);
-  left: calc(50% - 200px);
-  z-index: 9999;
+  left: calc(50% - 140px);
+  z-index: 1000;
 }
 
 .header-content {
@@ -12,4 +12,10 @@
 
 .portfolio-box {
   height: 200px;
+}
+
+@media only screen and (max-device-width: 992px){
+  .header-content-inner {
+    top: calc(50% - 150px);
+  }
 }
