@@ -1,0 +1,15 @@
+.header-content-inner {
+  position:absolute;
+  top: calc(50% - 200px);
+  left: calc(50% - 200px);
+  z-index: 9999;
+}
+
+.header-content {
+  height: 100%;
+}
+
+
+.portfolio-box {
+  height: 200px;
+}

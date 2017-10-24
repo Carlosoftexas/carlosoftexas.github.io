@@ -1,0 +1,8 @@
+.img-fluid {
+  height: 100%;
+}
+
+
+li a i:hover::before {
+  background-color: rgba(0,0,0,0.2);
+}
