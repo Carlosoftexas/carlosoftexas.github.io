@@ -17,6 +17,6 @@
 @media only screen and (max-device-width: 992px){
   .header-content-inner {
     top: calc(50% - 170px);
-    left: calc(50% - 150px)
+    left: calc(50% - 170px)
   }
 }
