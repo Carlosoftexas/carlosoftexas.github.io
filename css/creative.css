@@ -78,7 +78,7 @@ body {
 #mainNav {
   border-color: rgba(34, 34, 34, 0.05);
   background-color: white;
-  font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'lato'; 
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   transition: all 0.2s; }
@@ -145,7 +145,7 @@ header.masthead {
   min-height: auto;
   text-align: center;
   color: white;
-  background-image: url("../img/Austin_Day_exdogb.png");
+  background-image: url("../img/canyonupside.jpg");
   background-position: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
